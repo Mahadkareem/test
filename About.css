@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #03254c;
+
+}
+
+#topbar {
+    height: 90px;
+    background-color: rgb(248, 48, 21);
+    text-align: right;
+    text-decoration: none;
+}
+
+#topbar ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#topbar li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    padding-top: 30px;
+    ;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 17px;
+    text-decoration: none;
+    color: #360202;
+
+}
+
+#logo {
+    color: #03254c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
+    text-align: left;
+    float: left;
+    margin-top: 20px;
+    ;
+    margin-left: 5px;
+    ;
+}
+
+#about {
+    margin-top: 70px;
+    margin-left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+#contact {
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 200px;
+    background-color: rgb(214, 209, 209);
+    color: rgb(19, 18, 18);
+    display: flex;
+    justify-content: flex-start;
+}
+
+#contact h1 {
+    margin-left: 30px;
+    font-size: 45px;
+
+}
+
+#contact p {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#contact #git {
+    position: relative;
+    bottom: -65px;
+    left: 200px;
+    text-decoration: none;
+}
+
+#contact .buton {
+    height: 55px;
+    position: absolute;
+    right: 70px;
+
+
+}
+
+#blk {
+    height: 70px;
+    color: rgb(209, 198, 198);
+    background-color: rgb(31, 28, 28);
+    text-align: center;
+}
+
+#blk p {
+    position: relative;
+    top: 25px;
+}
